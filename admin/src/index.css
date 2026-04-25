@@ -35,7 +35,7 @@ body {
 
 .admin-bg-orb {
   position: absolute;
-  width: 22rem;
+  width: 24rem;
   height: 22rem;
   border-radius: 9999px;
   filter: blur(70px);
