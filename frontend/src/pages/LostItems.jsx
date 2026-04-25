@@ -156,7 +156,7 @@ const LostItems = () => {
                 + Create Lost Item Post
               </button>
               <div className="rounded-xl border border-orange-400/25 bg-black/30 px-4 py-3 text-orange-50">
-                <p className="text-orange-200/80">Total Reports</p>
+                <p className="text-orange-200/80">Total Report</p>
                 <p className="mt-1 text-xl font-bold">{lostItems.length}</p>
               </div>
               <div className="rounded-xl border border-orange-400/25 bg-black/30 px-4 py-3 text-orange-50">
