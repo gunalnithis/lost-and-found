@@ -194,7 +194,7 @@ const AdvertisementRequest = () => {
 
             <div className="md:col-span-2">
               <label className="text-xs font-semibold uppercase tracking-wide text-slate-400">
-                Contact Number
+                Contact Numbers
               </label>
               <input
                 name="contactNumber"
