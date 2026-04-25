@@ -180,7 +180,7 @@ const AdvertisementRequest = () => {
 
             <div>
               <label className="text-xs font-semibold uppercase tracking-wide text-slate-400">
-                Contact Email
+                Contact Emails
               </label>
               <input
                 type="email"
