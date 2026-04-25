@@ -143,7 +143,7 @@ const AdvertisementRequest = () => {
               </label>
               <textarea
                 name="description"
-                rows={4}
+                rows={5}
                 value={formData.description}
                 onChange={handleChange}
                 required
